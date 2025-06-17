@@ -7,11 +7,17 @@ This repository contains a project focused on analyzing, implementing, and testi
 1. **`Image_feature_extraction_and_matching.pdf`**  
    A detailed report is provided, encompassing an analysis of each method, their respective implementations, and the resulting matches. The report also includes a comparative analysis between the methods, along with additional insights.
 
-2. **`BERT_QA_Model.ipynb`**  
-   A Jupyter Notebook containing the code for training and evaluating the model.
+2. **`harris2.py`**  
+   A Python script implementing the Harris Corner Detector.
 
-3. **`BERT_QA_ModelTesting.ipynb`**  
-   A Jupyter Notebook for testing the trained model on different examples.
+3. **`TestHarrisCorners.ipynb`**  
+   A Jupyter Notebook for testing corner extraction using the Harris Corner Detector.
+   
+4. **`TestHarrisMatches.ipynb`**  
+   A Jupyter Notebook for testing the matching of similar features (Harris corners) between two images.
+
+5. **`SIFT_matcher.ipynb`**  
+   A Jupyter Notebook containing the implementation of the SIFT Matcher and tests for matching similar features between two images.
 
 ## Suggested Workflow
 
