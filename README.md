@@ -4,8 +4,8 @@ This repository contains a project focused on analyzing, implementing, and testi
 
 ## Repository Content
 
-1. **`QA_model_with_BERT.pdf`**  
-   A detailed report describing the project, including the model architecture, training process, usage instructions, and additional insights.
+1. **`Image_feature_extraction_and_matching.pdf`**  
+   A detailed report is provided, encompassing an analysis of each method, their respective implementations, and the resulting matches. The report also includes a comparative analysis between the methods, along with additional insights.
 
 2. **`BERT_QA_Model.ipynb`**  
    A Jupyter Notebook containing the code for training and evaluating the model.
